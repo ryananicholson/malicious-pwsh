@@ -19,3 +19,4 @@ More info on freq.py can be found [here](https://github.com/MarkBaggett/freq).
 ```
 python3 malicious-pwsh.py <file.evtx>
 ```
+
